@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    height: 90vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: #fff000;
+}
+.container{
+    text-align: center;
+}
+
+#show-quote{
+    margin-bottom: 40px;
+    font-size: 25px;
+    color: blue;
+}
+button{
+    padding: 15px 10px;
+    /* margin: auto; */
+    font-size: 25px;
+}
